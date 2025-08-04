@@ -1,14 +1,15 @@
-### Hi, I'm Moyuin-aka.
+### Hi, I'm Moyuin-aka.👋
 
-A student at Hunan University (HNU) with a concentration in Information Security. I am passionate about understanding and building robust software systems. My goal is to apply computer science principles to solve security challenges.
+A student at Hunan University (HNU) with a concentration in Information Security,currently navigating the vast world of Computer Science and Information Security.
+This space serves as a log of my learning journey—a place where I document my experiments, thoughts, and the process of finding my path as a beginner. I know there's a long road ahead, and I'm curious about all of it.
 
 ---
 
 ### Core Competencies
 
 * **Languages:** I primarily work with **Python** and **C++**.
-* **Exploration:** I am currently exploring **Rust** due to its strong guarantees on memory safety and concurrency, which are critical in the field of security.
-* **Interests:** My academic and personal interests lie in system security, secure coding practices, and backend development.
+* **Exploration:** I am currently exploring **Rust** .
+* **Interests:** My personal interests lie in Internet Tech.
 
 ---
 
@@ -21,7 +22,7 @@ A student at Hunan University (HNU) with a concentration in Information Security
 
 ### Get in Touch
 
-You can reach me via the links below. I'm open to discussions about technology and potential collaborations.
+I believe growth comes from communication. As a student still early in my journey, I'm eager to connect with experienced developers, fellow learners, or anyone passionate about technology.
 
 <p align="left">
   <a href="https://moyuin.top">
