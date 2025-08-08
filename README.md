@@ -32,6 +32,15 @@ I believe growth comes from communication. As a student still early in my journe
   <a href="mailto:me@moyuin.top">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://x.com/moyuin1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/moyuin">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  
 </p>
 
 ---
