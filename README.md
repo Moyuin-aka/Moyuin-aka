@@ -1,26 +1,37 @@
-### Hi, I'm Moyuin-aka.👋
+## Hi, I'm Moyuin-aka.👋
 
-A student at Hunan University (HNU) with a concentration in Information Security,currently navigating the vast world of Computer Science and Information Security.
-This space serves as a log of my learning journey—a place where I document my experiments, thoughts, and the process of finding my path as a beginner. I know there's a long road ahead, and I'm curious about all of it.
+A student at Hunan University (HNU) with a concentration in Information Security.
+
+---
+## Tech Stack
+### Learning Languages
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)](https://www.php.net/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=plastic&logo=astro&logoColor=white)](https://astro.build/)
+
+
+### Dev
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Caddy](https://img.shields.io/badge/Caddy-24B565?style=plastic&logo=caddy&logoColor=white)](https://caddyserver.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 ---
 
-### Core Competencies
-
-* **Languages:** I primarily work with **Python** and **C++**.
-* **Exploration:** I am currently exploring **Rust** .
-* **Interests:** My personal interests lie in Internet Tech.
-
----
-
-### Selected Projects
+## Toys
 
 * **[memos-sorter](https://github.com/Moyuin-aka/memos-sorter):** A simple Python script designed for automatic classification of Memos notes.
 * *Future projects will be listed here.*
 
 ---
 
-### Get in Touch
+## Get in Touch
 
 I believe growth comes from communication. As a student still early in my journey, I'm eager to connect with experienced developers, fellow learners, or anyone passionate about technology.
 
