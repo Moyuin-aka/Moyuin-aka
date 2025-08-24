@@ -21,6 +21,8 @@ A student at Hunan University (HNU) with a concentration in Information Security
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)](https://redis.io/)
+
 
 ### Networking Skills
 [![Xray](https://img.shields.io/badge/Xray-CORE-blueviolet?style=plastic)](https://github.com/XTLS/Xray-core)
