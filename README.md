@@ -8,10 +8,10 @@ A student at Hunan University (HNU) with a concentration in Information Security
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)](https://www.php.net/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=plastic&logo=astro&logoColor=white)](https://astro.build/)
 
 
