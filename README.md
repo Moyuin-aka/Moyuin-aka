@@ -22,6 +22,13 @@ A student at Hunan University (HNU) with a concentration in Information Security
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
+### Networking Skills
+[![Xray](https://img.shields.io/badge/Xray-CORE-blueviolet?style=plastic)](https://github.com/XTLS/Xray-core)
+[![Sing-box](https://img.shields.io/badge/Sing--box-GO-brightgreen?style=plastic)](https://sing-box.sagernet.org/)
+[![IPv6 Ready](https://img.shields.io/badge/IPv6-Ready-orange?style=plastic&logo=ipv6)](https://ipv6.com/)
+[![OpenWrt](https://img.shields.io/badge/Router-OpenWrt-critical?style=plastic&logo=openwrt&logoColor=white)](https://openwrt.org/)
+[![Padavan](https://img.shields.io/badge/Router-Padavan-007BFF?style=plastic)](https://bitbucket.org/padavan/rt-n56u/)
+
 ---
 
 ## Toys
