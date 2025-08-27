@@ -15,7 +15,7 @@ A student at Hunan University (HNU) with a concentration in Information Security
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=plastic&logo=astro&logoColor=white)](https://astro.build/)
 
 
-### Dev
+### DevOps
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Caddy](https://img.shields.io/badge/Caddy-24B565?style=plastic&logo=caddy&logoColor=white)](https://caddyserver.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
