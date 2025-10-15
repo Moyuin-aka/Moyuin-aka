@@ -39,6 +39,7 @@ A student at Hunan University (HNU) with a concentration in Information Security
 ## Toys
 
 * **[memos-sorter](https://github.com/Moyuin-aka/memos-sorter):** A simple Python script designed for automatic classification of Memos notes.
+* **[Tyndall](https://github.com/Moyuin-aka/Tyndall-public)**: A modern Astro blog theme focused on details and visual experience.
 * *Future projects will be listed here.*
 
 ---
