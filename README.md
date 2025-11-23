@@ -12,7 +12,7 @@ A student at Hunan University (HNU) with a concentration in Information Security
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=plastic&logo=astro&logoColor=white)](https://astro.build/)
 
 
@@ -32,6 +32,7 @@ A student at Hunan University (HNU) with a concentration in Information Security
 ### Networking Skills
 [![Xray](https://img.shields.io/badge/Xray-CORE-blueviolet?style=plastic)](https://github.com/XTLS/Xray-core)
 [![Sing-box](https://img.shields.io/badge/Sing--box-GO-brightgreen?style=plastic)](https://sing-box.sagernet.org/)
+[![Hysteria 2](https://img.shields.io/badge/Hysteria-2-364f6b?style=plastic)](https://v2.hysteria.network/zh/)
 [![IPv6 Ready](https://img.shields.io/badge/IPv6-Ready-orange?style=plastic&logo=ipv6)](https://ipv6.com/)
 [![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=plastic&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
 [![Tailscale](https://img.shields.io/badge/Tailscale-121024?style=plastic&logo=tailscale&logoColor=white)](https://tailscale.com/)
