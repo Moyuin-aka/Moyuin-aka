@@ -46,6 +46,7 @@ A student at Hunan University (HNU) with a concentration in Information Security
 
 * **[memos-sorter](https://github.com/Moyuin-aka/memos-sorter):** A simple Python script designed for automatic classification of Memos notes.
 * **[Tyndall](https://github.com/Moyuin-aka/Tyndall-public)**: A modern Astro blog theme focused on details and visual experience.
+* **[EXIF-Catcher](https://github.com/Moyuin-aka/EXIF-Catcher): A high-performance Rust tool for building static photography galleries efficiently.
 * *Future projects will be listed here.*
 
 ---
