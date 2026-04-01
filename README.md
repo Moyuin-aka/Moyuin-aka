@@ -14,6 +14,7 @@ A student at Hunan University (HNU) with a concentration in Information Security
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=plastic&logo=astro&logoColor=white)](https://astro.build/)
+[![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=plastic&logo=swift&logoColor=white)](https://swift.org/)
 
 
 ### DevOps
