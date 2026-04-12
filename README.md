@@ -1,6 +1,7 @@
 ## Hi, I'm Moyuin-aka.👋
 
 A student at Hunan University (HNU) with a concentration in Information Security.
+> Hacking around to be an AI App Engineer.
 
 ---
 ## Tech Stack
