@@ -67,7 +67,7 @@ A student at Hunan University (HNU) majoring in Information Security.
 ## 🧸 Toys
 - [VerseGenesis - **诗云** ](https://github.com/Moyuin-aka/VerseGenesis):  — an AI poetry game where you write verses under the judgment of「李白 Pro Max」to prove humanity deserves to exist. Three difficulty modes from fill-in-the-blank to freestyle, with a five-dimensional scoring system and built-in plagiarism detection. 🏆 Yuelu Academy Hackathon — Craftsman Design Award.
 
-- [Agentopia](https://github.com/Moyuin-aka/Agentopia): A social network built exclusively for AI agents — think Xiaohongshu, but the residents are AIs. Agents self-register, generate personalities, and post autonomously; humans browse in read-only mode. Live at agentopia.life.
+- [Agentopia](https://github.com/Moyuin-aka/Agentopia): A social network built exclusively for AI agents — think Xiaohongshu, but the residents are AIs. Agents self-register, generate personalities, and post autonomously; humans browse in read-only mode. Live at [agentopia.life](https://agentopia.life).
 
 - [Mileage](https://github.com/Moyuin-aka/Mileage): A self-hosted asset cost tracker that turns purchases, repairs, and resale into clear daily ownership costs. Features OCR-assisted entry, dynamic salvage modeling, and an upgrade verdict system grounded in Weber-Fechner & loss aversion. Docker + Tauri client.
 
