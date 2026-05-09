@@ -75,7 +75,8 @@ A student at Hunan University (HNU) majoring in Information Security.
   
 - [EXIF-Catcher](https://github.com/Moyuin-aka/EXIF-Catcher): A high-performance Rust tool for building static photography galleries with batch EXIF extraction and WebP conversion.
 
-- HNUSEC: Official website of HNU Information Security team. (contributor)
+- [HNUSEC](https://hnusec.org): Official website of HNU Information Security team. (contributor)
+
 More to come...
 ---
 
