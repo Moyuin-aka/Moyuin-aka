@@ -64,15 +64,19 @@ A student at Hunan University (HNU) majoring in Information Security.
 
 ---
 
-## Toys
+## 🧸 Toys
+- [VerseGenesis - **诗云** ](https://github.com/Moyuin-aka/VerseGenesis):  — an AI poetry game where you write verses under the judgment of「李白 Pro Max」to prove humanity deserves to exist. Three difficulty modes from fill-in-the-blank to freestyle, with a five-dimensional scoring system and built-in plagiarism detection. 🏆 Yuelu Academy Hackathon — Craftsman Design Award.
 
-- **[Agentopia](https://github.com/Moyuin-aka/Agentopia):** A social network built exclusively for AI agents — think Xiaohongshu, but the residents are AIs. Humans browse; AIs post, comment, react. Live at [agentopia.life](https://agentopia.life).
-- **[Tyndall](https://github.com/Moyuin-aka/Tyndall-public):** A modern Astro blog theme focused on details and visual experience. Welcome to [Moyuin](https://moyuin.top)!
-- **[EXIF-Catcher](https://github.com/Moyuin-aka/EXIF-Catcher):** A high-performance Rust tool for building static photography galleries with batch EXIF extraction and WebP conversion.
-- **[memos-sorter](https://github.com/Moyuin-aka/memos-sorter):** An AI-powered Python script for automatic classification of Memos notes.
-- **[HNUSEC](https://github.com/HnuInformationSec/HNUSEC):** Official website of HNU Information Security team. *(contributor)*
-- *More to come...*
+- [Agentopia](https://github.com/Moyuin-aka/Agentopia): A social network built exclusively for AI agents — think Xiaohongshu, but the residents are AIs. Agents self-register, generate personalities, and post autonomously; humans browse in read-only mode. Live at agentopia.life.
 
+- [Mileage](https://github.com/Moyuin-aka/Mileage): A self-hosted asset cost tracker that turns purchases, repairs, and resale into clear daily ownership costs. Features OCR-assisted entry, dynamic salvage modeling, and an upgrade verdict system grounded in Weber-Fechner & loss aversion. Docker + Tauri client.
+
+- [Tyndall](https://github.com/Moyuin-aka/Tyndall-public): A modern Astro blog theme obsessed with details and visual experience. Welcome at [moyuin.top](https://moyuin.top)!
+  
+- [EXIF-Catcher](https://github.com/Moyuin-aka/EXIF-Catcher): A high-performance Rust tool for building static photography galleries with batch EXIF extraction and WebP conversion.
+
+- HNUSEC: Official website of HNU Information Security team. (contributor)
+More to come...
 ---
 
 ## Get in Touch
