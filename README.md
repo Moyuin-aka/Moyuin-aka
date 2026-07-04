@@ -11,6 +11,9 @@
 
 ---
 
+![Hunan University](https://img.shields.io/badge/Hunan%20University-1a1433?style=flat&logo=googlescholar&logoColor=a78bfa)
+![Information Security](https://img.shields.io/badge/Information%20Security-1a1433?style=flat&logo=letsencrypt&logoColor=a78bfa)
+![AI App Engineer](https://img.shields.io/badge/AI%20App%20Engineer-1a1433?style=flat&logo=huggingface&logoColor=a78bfa)
 
 <br>
 
@@ -30,11 +33,10 @@
 
 ![Astro](https://img.shields.io/badge/Astro-1a1433?style=flat&logo=astro&logoColor=a78bfa)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1433?style=flat&logo=nextdotjs&logoColor=a78bfa)
-![React](https://img.shields.io/badge/React-1a1433?style=flat&logo=react&logoColor=a78bfa)
 ![Tauri](https://img.shields.io/badge/Tauri-1a1433?style=flat&logo=tauri&logoColor=a78bfa)
-![Vite](https://img.shields.io/badge/Vite-1a1433?style=flat&logo=vite&logoColor=a78bfa)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1433?style=flat&logo=tailwindcss&logoColor=a78bfa)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1433?style=flat&logo=tailwindcss&logoColor=a78bfa)
 ![Docker](https://img.shields.io/badge/Docker-1a1433?style=flat&logo=docker&logoColor=a78bfa)
+![Caddy](https://img.shields.io/badge/Caddy-1a1433?style=flat&logo=caddy&logoColor=a78bfa)
 
 <sub>TOOLS</sub>
 <br>
